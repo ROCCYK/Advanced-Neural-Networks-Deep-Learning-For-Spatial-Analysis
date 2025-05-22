@@ -29,14 +29,6 @@ This course focuses on the integration of advanced neural network models with sp
 - **Geospatial Libraries**: GeoPandas, Rasterio
 - **Visualization Tools**: Matplotlib, Seaborn
 
-## 📚 References
-
-For a deeper understanding of the topics covered, consider exploring the following resources:
-
-- [Deep Learning for Satellite Imagery via Image Segmentation](https://github.com/deepVector/geospatial-machine-learning)
-- [TorchGeo: Deep Learning With Geospatial Data](https://arxiv.org/abs/2111.08872)
-- [Awesome Geospatial Data Science](https://github.com/edieraristizabal/Awesome-GDS)
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
