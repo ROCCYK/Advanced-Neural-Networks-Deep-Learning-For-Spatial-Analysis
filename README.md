@@ -17,7 +17,7 @@ Welcome to the repository for the *Advanced Neural Networks: Deep Learning for S
 This course focuses on the integration of advanced neural network models with spatial data analysis. Key areas of study include:
 
 - Convolutional Neural Networks (CNNs) for spatial feature extraction.
-- Instance segmentation techniques, particularly using YOLOv5.
+- Instance segmentation techniques, particularly using YOLOv11.
 - Application of deep learning models to geospatial datasets.
 - Evaluation of model performance in spatial contexts.
 
