@@ -18,7 +18,7 @@ This course focuses on the integration of advanced neural network models with sp
 
 - Convolutional Neural Networks (CNNs) for spatial feature extraction.
 - Instance segmentation techniques, particularly using YOLOv11.
-- Application of deep learning models to geospatial datasets.
+- Application of deep learning models to spatial datasets.
 - Evaluation of model performance in spatial contexts.
 
 ## 🛠️ Tools and Technologies
