@@ -1,0 +1,30 @@
+# 35/300 iterations complete ✅ (5321.74s)
+# Results saved to runs\segment\tune
+# Best fitness=1.55114 observed at iteration 31
+# Best fitness metrics are {'metrics/precision(B)': 0.96714, 'metrics/recall(B)': 0.96825, 'metrics/mAP50(B)': 0.98874, 'metrics/mAP50-95(B)': 0.76163, 'metrics/precision(M)': 0.96714, 'metrics/recall(M)': 0.96825, 'metrics/mAP50(M)': 0.99027, 'metrics/mAP50-95(M)': 0.74197, 'val/box_loss': 0.58534, 'val/seg_loss': 1.06799, 'val/cls_loss': 0.76963, 'val/dfl_loss': 1.11082, 'fitness': 1.55114}
+# Best fitness model is runs\segment\train32
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.00892
+lrf: 0.00951
+momentum: 0.94102
+weight_decay: 0.0005
+warmup_epochs: 3.64238
+warmup_momentum: 0.76332
+box: 5.12088
+cls: 0.70699
+dfl: 1.57928
+hsv_h: 0.01536
+hsv_s: 0.83299
+hsv_v: 0.35813
+degrees: 0.0
+translate: 0.12168
+scale: 0.53601
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.64594
+bgr: 0.0
+mosaic: 0.69792
+mixup: 0.0
+copy_paste: 0.0
